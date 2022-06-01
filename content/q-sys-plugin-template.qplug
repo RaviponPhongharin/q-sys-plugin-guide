@@ -27,7 +27,7 @@ function GetProperties()
         {
             Name = "MyStringProperty",
             Type = "string",
-            Value = "Hello World"
+            Value = "Hello World test test"
         },
         {
             Name = "MyIntegerProperty",
